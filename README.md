@@ -9,9 +9,10 @@
 
 - 👯 I’m looking to collaborate on [Tatodo](https://github.com/thmkhtry490/Tatodo)
 
-- 👨‍💻 All of my projects are available at [thmkhtry490.github.io](thmkhtry490.github.io)
+<!-- - 👨‍💻 All of my projects are available at [thmkhtry490.github.io](thmkhtry490.github.io)
 
-- 📝 I regularly write articles on [thmkhtry490.github.io/blog](thmkhtry490.github.io/blog)
+- 📝 I regularly write articles on [thmkhtry490.github.io/blog](thmkhtry490.github.io/blog) -->
+
 
 - 💬 Ask me about **Linux,Network,Python,Django**
 
