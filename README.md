@@ -5,9 +5,7 @@
 
 - 🔭 I’m currently working on [Boxyland Co.](https://boxyland.ir)
 
-- 🌱 I’m currently learning **Django Rest Framework.**
-
-- 👯 I’m looking to collaborate on [Tatodo](https://github.com/thmkhtry490/Tatodo)
+- 🌱 I’m currently learning **Web**
 
 <!-- - 👨‍💻 All of my projects are available at [thmkhtry490.github.io](thmkhtry490.github.io)
 
